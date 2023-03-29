@@ -1,0 +1,66 @@
+.footerInnerDiv2
+{
+    background-color: #333333;
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+}
+
+.footerInnerDiv1
+{
+
+    width: 100vw;   
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #f2f2f2;
+}
+
+.bottomDiv
+{
+  
+    margin-top: 10vw;
+}
+
+.bottomUpDiv
+{
+    background-color: white 2px solid;
+
+}
+
+.footerTopTextContent
+{
+    
+    width: 80vw;
+    height: 50vh;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+.socialMediaIcon
+{
+    width: 25px;
+    height: 25px;
+    margin: 9px;
+    background-color: #f2f2f2;
+    cursor: pointer;
+}
+
+.socialMediaIconList
+{
+    margin-top: 2.5%;
+    display: flex;
+    flex-direction: row;
+}

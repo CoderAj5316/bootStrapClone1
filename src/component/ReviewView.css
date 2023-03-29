@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.reviewInnerDiv
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 90vw;
+}
+
+
+.reviewMainDiv
+{
+    margin-top: 30px;
+    display:  flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+}
+.reviewRightDiv
+{
+    width: 45vw;
+}
+
+.reviewLeftDiv
+{
+    width: 45vw;
+}
+
+.reviewImage
+{
+    width: 45vw;
+    height: 90vh;
+}
+
+.comma
+{
+    font-size: 80px;
+    font-weight: 1000;
+}
+
+.reviewSpan
+{
+    color: rgb(37, 36, 36);
+}
+
+.reviewH3
+{
+    margin-top: 20vh;
+}

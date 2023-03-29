@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.imageInnerDiv
+{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: center;
+    margin-top: 20vh
+}
+
+.imageMainDiv
+{
+    background-color: #f2f2f2;
+    width: 100%;
+}
+
+.ImageViewImg
+{
+    background-size: cover;
+    width: 32.9vw;
+
+}
+
+.cancelButtton
+{
+    
+}
+

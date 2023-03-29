@@ -1,0 +1,67 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainDiv4
+{
+    margin: 9px;
+    padding: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.cakeRow1
+{
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    text-align: center;
+}
+
+.cakeImage41
+{
+    width: 30vw;
+    height: 50vh;
+    margin: 6px;
+}
+
+.textRow43
+{
+    font-weight: 700;
+    
+    color: black;
+    text-align: center;
+    font-weight: 150;
+    font-size: 16px;
+}
+
+
+.textRow42
+{
+    font-weight: 700;
+    margin: 20px 0 0;
+}
+
+
+.cakeText1
+{
+    width: 33vw;
+}
+
+.readMore
+{
+    color: black;
+    
+}
+
+.innerDiv4
+{
+    width: 90vw;
+}
+a
+{
+    border-bottom: black 2px solid;
+}
